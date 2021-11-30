@@ -4,7 +4,7 @@ on:
     branches:
       - branch1
 jobs:
-  Explore-GitHub-Actions:
+  Explore-GitHub-Actions-MB1:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Workflow definition github-actions-branch1.yml from master"
