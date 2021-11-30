@@ -1,4 +1,4 @@
-name: GitHub Actions Branch1
+name: GitHub Actions Branch1 on Master
 on:
   push:
     branches:

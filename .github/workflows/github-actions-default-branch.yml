@@ -1,4 +1,4 @@
-name: GitHub Actions Default Branch
+name: GitHub Actions Default Branch on Master
 on:
   push:
     branches:
