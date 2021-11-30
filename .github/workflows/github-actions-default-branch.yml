@@ -2,7 +2,7 @@ name: GitHub Actions Default Branch on Master
 on:
   push:
     branches:
-      - $default-branch
+      - master
 jobs:
   Explore-GitHub-Actions-MD:
     runs-on: ubuntu-latest
